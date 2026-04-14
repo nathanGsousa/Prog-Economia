@@ -82,9 +82,9 @@ Ao longo da disciplina, são desenvolvidas habilidades para:
 ├── aulas/
 │   ├── data/            # Bases de dados usadas nas aulas
 │   ├── aula01/
-│   │   ├── scripts/     # Scripts da aula
-│   │   ├── figs/        # Figuras e imagens
-│   │   └── aula01.ipynb # Notebook da aula
+│   │   ├── aula01.ipynb # Notebook da aula
+│   │   └── figs/        # Figuras e imagens
+│   │  
 │   ├── aula02/
 │   │   ├── scripts/
 │   │   ├── figs/
